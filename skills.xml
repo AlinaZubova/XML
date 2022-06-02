@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Basic_theory>What is testing</Basic_theory>
+<HTTPs>Structures of HTTP Requests and Responses</HTTP>
+<API>Postman_API autotests</API>
+<Sniffing>Charles and Fiddler</Sniffing>
+<DevTools>Chrome Firefox</DevTools>
+<MobileTesting>iOS and Android</MobileTesting>
+<CommandLine>Terminal Linux GitBash</CommandLine>
+<SQL>Select_Join_etc</SQL>
+<Postgres>installation_configuration and use</Postgres>
